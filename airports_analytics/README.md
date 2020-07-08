@@ -9,9 +9,12 @@
 - стыковая таблица "рейсы-билеты" (ticket_flights);
 - фестивали (festivals).
 
+Схема и стуктура таблиц следующая:
+![схема_таблиц](https://github.com/valentinatihova/Yandex_projects/raw/airports_analytics/схема_таблиц.jpg)
+
 Информация о фестивалях 2018 года получена с сайта:  https://code.s3.yandex.net/learning-materials/data-analyst/festival_news/index.html
 
-#Задача
+# Задача
 Изучение базы данных российской авиакомпании и анализ спрос пассажиров на рейсы в города, где проходят крупнейшие фестивали.
 
 ## Используемые библиотеки
