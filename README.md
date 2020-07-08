@@ -9,4 +9,4 @@
 | [Рыночная стоимость объекта](market_price_of_object) | Исследование объявлений о продаже квартир для определения рыночной стоимости объекта | *Datetime, Matplotlib, Numpy, Seaborn, Pandas* |
 | [Тариф телеком](tariff_revenue)| Определение перспективного тарифа для телеком компании | *Datetime, Math, Matplotlib.pyplot, Numpy, Pandas, Seaborn, Stats* |
 | [Рекламная компания по компьютерным играм](market_of_games)| Развитие рекламной компании интернет-магазина по компьютерным играм с учётом регионального распределения| *Datetime, Math, Matplotlib.pyplot, Numpy, Pandas, Pandas_profiling, Seaborn, Stats*
-| [ч1. Аналитика аэропорта (подготовка запросов](sql_query), [ч2. Аналитика аэропорта (ноутбук)](airports_analytics)| Анализ спроса пассажиров на рейсы в города, где проходят крупнейшие фестивали | BeautifulSoup, Matplotlib.pyplot, Pandas, Requests, Stats |
+| [ч1. Аналитика аэропорта (подготовка запросов)](sql_query), [ч2. Аналитика аэропорта (ноутбук)](airports_analytics)| Анализ спроса пассажиров на рейсы в города, где проходят крупнейшие фестивали | BeautifulSoup, Matplotlib.pyplot, Pandas, Requests, Stats |
