@@ -8,6 +8,7 @@
 - рейсы (flights);
 - стыковая таблица "рейсы-билеты" (ticket_flights);
 - фестивали (festivals).
+
 Информация о фестивалях 2018 года получена с сайта:  https://code.s3.yandex.net/learning-materials/data-analyst/festival_news/index.html
 
 #Задача
