@@ -9,7 +9,7 @@
 - стыковая таблица "рейсы-билеты" (ticket_flights);
 - фестивали (festivals).
 
-Схема и стуктура таблиц следующая:
+Схема и структура таблиц следующая:
 ![схема_таблиц](https://github.com/valentinatihova/Yandex_projects/raw/master/airports_analytics/схема_таблиц.jpg)
 
 Информация о фестивалях 2018 года получена с сайта:  https://code.s3.yandex.net/learning-materials/data-analyst/festival_news/index.html
