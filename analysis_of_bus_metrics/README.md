@@ -13,4 +13,4 @@
 Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib
 
 ## Ключевые слова
-Продуктовые метрики (DAU, WAU, MAU), возрат клиента Retention Rate, когортный анализ, метрики электронной коммерции (средний чек, LTV), маркетинговые метрики (CAC, ROMI)
+Юнит-экономика (DAU, WAU, MAU), возрат клиента Retention Rate, когортный анализ, метрики электронной коммерции (средний чек, LTV), маркетинговые метрики (CAC, ROMI)
