@@ -57,5 +57,6 @@ engine = create_engine(connection_string)
  ```python
  pd.io.sql.read_sql(query, con = engine)
  ```
-  3. Напишем код для выгрузки данных из таблицы в файл.
-  4. В Tableau Public на основе файла сформируйте дашборд в соответствии с макетом и опубликуем дашборд на сайте Tableau Public.
+  3. Напишем код для выгрузки данных из таблицы в [файл](dash_visits.csv).
+  4. В Tableau Public на основе файла сформируйте дашборд в соответствии с макетом и опубликуем дашборд на сайте Tableau Public. https://public.tableau.com/app/profile/valentina/viz/yandex_dash/Dashboard1
+  5. Итоговые выводы по анализу кратко зафиксируем в [отчете](Yandex_zen_dash.pdf).
