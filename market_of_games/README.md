@@ -2,7 +2,9 @@
 
 ## Данные
 Доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). 
+
 *Источник данных*: https://www.kaggle.com/code/iliassekkaf/video-game-sales-eda/data?select=Video_Games_Sales_as_at_22_Dec_2016.csv
+
 Стуруктура данных следущая:
   - Name — название игры
   - Platform — платформа
