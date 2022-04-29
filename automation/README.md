@@ -57,5 +57,5 @@ engine = create_engine(connection_string)
  ```python
  pd.io.sql.read_sql(query, con = engine)
  ```
-  3. Напишем кол для выгрузки данных из таблицы в файл.
+  3. Напишем код для выгрузки данных из таблицы в файл.
   4. В Tableau Public на основе файла сформируйте дашборд в соответствии с макетом и опубликуем дашборд на сайте Tableau Public.
