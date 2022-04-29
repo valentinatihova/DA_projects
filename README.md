@@ -17,7 +17,7 @@ Reach me on [Linkedin](www.linkedin.com/in/valentina-tikhova) | [Telegram](https
 | [Marketing costs optimization according to Yandex.Afisha data](marketing_costs) :star:| Optimization of marketing costs based on an assessment of the customer retention rate, average check and LTV, the cost of attracting one customer CAC, ROMI. Create PowerBI dash | *Datetime, Matplotlib.pyplot, Median, Pandas, Seaborn, Statistics, Numpy*|
 |[Analysis of business metrics](analysis_of_bus_metrics):star:|Analysis of app customer acquisition costs Yandex.Afisha|Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib|
 |[Making of business decision](making_of_bus_decision)|Prioritization of marketing hypotheses, a\b-test|Pandas, Numpy, scipy.stats, Seaborn, Matplotlib|
-|[Forecasts and predictions](forecasts and predictions)|Predicting customer churn and developing a retention strategy|Pandas, Numpy, sklearn, scipy, Math, Seaborn, Matplotlib|
+|[Forecasts and predictions](forecasts_and_predictions)|Predicting customer churn and developing a retention strategy|Pandas, Numpy, sklearn, scipy, Math, Seaborn, Matplotlib|
 |[Mobile app users](mobile_app_users)|A/a/b-test, calculation of sales funnel |statistics, sklearn, scipy.cluster, scipy, seaborn, numpy|
 |[Report for investors](report_for_investors)|Preparation of an analytical report for investors|Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib|
 |[Final project](final_project)|Tracking User behaviour for Mobile App, a\b-test, sql-project|sqlalchemy, pandas, matplotlib, scipy, math, sklearn|
