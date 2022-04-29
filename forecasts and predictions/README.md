@@ -12,7 +12,7 @@
 - сделать выводы и разработать рекомендации по повышению качества работы с клиентам
 
 ## Используемые библиотеки
-Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib
+Pandas, Numpy, sklearn, scipy, Math, Seaborn, Matplotlib
 
 ## Ключевые слова
 EDA, модель прогнозирования (логистическая регрессия, случайный лес), метрики accuracy, precision, recall, кластеризация, матрица расстояни, дендограмма, k-means
