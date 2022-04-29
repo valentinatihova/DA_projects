@@ -1,6 +1,6 @@
 # Data Analyst Projects
 
-This repository is a place to share my code and notebooks for data analyst projects using Python.
+This repository is a place to share my code and notebooks for data analyst projects using Python, SQL, PowerBi and Tableau.
 
 Reach me on [Linkedin](www.linkedin.com/in/valentina-tikhova) | [Telegram](https://t.me/Tikhova_Valentina)
 
