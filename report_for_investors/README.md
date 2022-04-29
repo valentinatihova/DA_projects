@@ -16,3 +16,6 @@
 
 ## Используемые библиотеки
 Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib
+
+## Ключевые слова
+алгоритм Левенштейна, словарь синонимов, паттерны, регулярные выражения, геолокация folium
