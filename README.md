@@ -7,11 +7,11 @@ Reach me on [Linkedin](www.linkedin.com/in/valentina-tikhova) | [Telegram](https
 
 ## List of projects
 
-| Project name         | Description               | Libraries          |
+| Project name         | Description               | Libraries and Tools          |
 | :------------------------| :--------------------- |:----------------------------------|
 | [Advertising company for computer games](market_of_games)| Development of an advertising company for an online store for computer games, taking into account regional distribution| *Datetime, Math, Matplotlib.pyplot, Numpy, Pandas, Pandas_profiling, Seaborn, Stats*|
-|[Сreating an automatic Tableau report](automation)| Tableau dashboard for Yandex.Zen | *Pandas, create_engine, pd.io.sql.read_sql* |
-| [Marketing costs optimization according to Yandex.Afisha data](marketing_costs)| Optimization of marketing costs based on an assessment of the customer retention rate, average check and LTV, the cost of attracting one customer CAC, ROMI. Create PowerBI dash | *Datetime, Matplotlib.pyplot, Median, Pandas, Seaborn, Statistics, Numpy*|
+|[Сreating an automatic Tableau report](automation)| Tableau dashboard for Yandex.Zen | *Pandas, create_engine, pd.io.sql.read_sql, Tableau* |
+| [Marketing costs optimization according to Yandex.Afisha data](marketing_costs)| Optimization of marketing costs based on an assessment of the customer retention rate, average check and LTV, the cost of attracting one customer CAC, ROMI. Create PowerBI dash | *Datetime, Matplotlib.pyplot, Median, Pandas, Seaborn, Statistics, Numpy, PowerBI*|
 |[Analysis of business metrics](analysis_of_bus_metrics)|Analysis of app customer acquisition costs Yandex.Afisha|*Pandas, Numpy, Pandas_profiling, Pymystem3, Collections, Seaborn, Matplotlib*|
 |[Forecasts and predictions](forecasts_and_predictions)|Predicting customer churn and developing a retention strategy|*Pandas, Numpy, sklearn, scipy, Math, Seaborn, Matplotlib*|
 |[Mobile app users](mobile_app_users)|A/a/b-test, calculation of sales funnel |*statistics, sklearn, scipy.cluster, scipy, seaborn, numpy*|
