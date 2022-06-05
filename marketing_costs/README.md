@@ -1,4 +1,5 @@
 # Аналитика в Яндекс.Афише. Оптимизация маркетинговых затрат.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/marketing_costs/marketing_costs.ipynb)
 На основании аналитики отрисован аналитический отчет в [PowerBI](marketing_costs_dash.pbix) ([экспорт в PDF](marketing_costs_dash.pdf)).
 
 ## Данные
