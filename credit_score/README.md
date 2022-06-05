@@ -1,5 +1,5 @@
 # Кредитный скоринг заёмщиков банка
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/credit_score/credit_score.ipynb)
 ## Данные
 В наличие были следующие данные от кредитного отдела банка:
 - количество детей в семье;
