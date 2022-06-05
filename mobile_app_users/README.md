@@ -1,5 +1,5 @@
 # A\B-тест по поведению пользователей мобильного приложения
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/mobile_app_users/mobile_app_users.ipynb)
 ## Данные
 Логи действий пользователей в мобильном приложении: событие, номер пользователя, время события, номер эксперимента.
 
