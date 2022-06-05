@@ -1,4 +1,5 @@
 # Выпускной проект
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/final_project/a_b_project.ipynb)
 Выпускной проект на курсе "Аналитика данных" Яндекс.Практикума.
 
 ## 1. Анализ поведения пользователей в мобильном приложении "Ненужные вещи"
