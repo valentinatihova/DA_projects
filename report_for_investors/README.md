@@ -1,5 +1,5 @@
 # Как рассказать историю с помощью данных
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/report_for_investors/report_for_investors.ipynb)
 ## Данные
 Данные о заведениях общественного питания Москвы:
 - сквозной идентификатор объекта
