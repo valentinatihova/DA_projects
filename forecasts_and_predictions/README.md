@@ -1,5 +1,5 @@
 # Прогнозы и предсказания
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/forecasts_and_predictions/forecasts%20and%20predictions.ipynb)
 ## Данные
 Данные клиентов фитнес-клуба по категориям клиентов (гендер, локация, возраст, длительность посещения клуба и другое)
 
