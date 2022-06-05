@@ -1,5 +1,5 @@
 # Развитие рекламной компании интернет-магазина по компьютерным играм
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/market_of_games/market_of_games_v01.ipynb)
 ## Данные
 Доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). 
 
