@@ -1,5 +1,5 @@
 # Аналитика в авиакомпании
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/airports_analytics/airports_analytics.ipynb)
 ## Данные
 База данных об авиаперевозках:
 - аэропорты (airports);
