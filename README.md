@@ -1,5 +1,5 @@
 # Data Analyst Projects
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/market_price_of_object/market_price_of_object.ipynb
+
 This repository is a place to share my code and notebooks for data analyst projects using Python, SQL, PowerBI and Tableau.
 
 Reach me on [Linkedin](www.linkedin.com/in/valentina-tikhova) | [Telegram](https://t.me/Tikhova_Valentina)
