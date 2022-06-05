@@ -1,5 +1,5 @@
 # Определение перспективного тарифа для телеком компании
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/tariff_revenue/tariff_revenue.ipynb)
 ## Данные
 В наличие данные 500 пользователей «Мегалайна»: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год.
 Информация хранятся в нескольких файлах:
