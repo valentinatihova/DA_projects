@@ -1,5 +1,5 @@
 # Исследование объявлений о продаже квартир
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/market_price_of_object/market_price_of_object.ipynb)
 ## Данные
 В наличие были следующие данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет:
 - airports_nearest — расстояние до ближайшего аэропорта в метрах (м)
