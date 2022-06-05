@@ -1,5 +1,5 @@
 # Анализ бизнес-показателей
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinatihova/DA_projects/blob/master/analysis_of_bus_metrics/analysis_of_bus_metrics.ipynb)
 ## Данные
 В наличие были следующие данные от Яндекс.Афиши с июня 2017 по конец мая 2018 года:
 - лог сервера с данными о посещениях сайта Яндекс.Афиши,
